@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My Name is Matthew<br>
+I am a learning game programmer, currently studying BINUS University. <br>
+
 <!--
 **MattA5K/MattA5K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
